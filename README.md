@@ -1,5 +1,6 @@
 |---------------------------------------------------------------------------------------------------|
 | Function	                     |            Description                                           |
+| --------------------------------------------------------------------------------------------------|
 | execute(script) (via file)	   |     Run Lua script from a file                                   |
 | get_expire_date()              |    	Check subscription expiration date                          |
 | redeem(key)	                   |     Activate a license                                           |
